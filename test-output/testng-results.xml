@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="regression" duration-ms="20784" started-at="2023-05-06T18:17:01Z" finished-at="2023-05-06T18:17:22Z">
+    <groups>
+    </groups>
+    <test name="LoginTest" duration-ms="20784" started-at="2023-05-06T18:17:01Z" finished-at="2023-05-06T18:17:22Z">
+      <class name="test.ListCustomerTest">
+        <test-method status="PASS" signature="userShouldBeAbleToAddCustomerFromListCustomer(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.ListCustomerTest@5474c6c]" name="userShouldBeAbleToAddCustomerFromListCustomer" duration-ms="20777" started-at="2023-05-06T13:17:01Z" finished-at="2023-05-06T13:17:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[demo@techfios.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Excel Projet]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Techfios]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[msexcell@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[231546]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Techfios Building]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Carrolton]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[TX]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[75009]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[United Kingdom]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldBeAbleToAddCustomerFromListCustomer -->
+      </class> <!-- test.ListCustomerTest -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- regression -->
+</testng-results>
